@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Tibialpenny1409%22%2C%22name%22%3A%22Antonio%20Nunez%22%2C%22email%22%3A%22antonion01409%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22Storage%20Devices%22%2C%22Peripheral%20Devices%22%2C%22Wi-Fi%22%2C%22DNS%22%2C%22VPN%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Tibialpenny1409%22%2C%22name%22%3A%22Antonio%20Nunez%22%2C%22email%22%3A%22antonion01409%40gmail.com%22%2C%22linkedin%22%3A%22www.linkedin.com%2Fin%2Fantonio-nunez-04b3a4216%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22Operating%20Systems%22%2C%22Storage%20Devices%22%2C%22Peripheral%20Devices%22%2C%22Wi-Fi%22%2C%22DNS%22%2C%22VPN%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 *ITSA Student*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40Tibialpenny1409-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tibialpenny1409) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonion01409@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-nunez-04b3a4216) [![GITHUB](https://img.shields.io/badge/GITHUB-%40Tibialpenny1409-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tibialpenny1409) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonion01409@gmail.com)
 
 </div>
 
